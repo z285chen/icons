@@ -6,5 +6,9 @@
       "name": "National Geographic",
       "url": "https://raw.githubusercontent.com/z285chen/vin-icons/refs/heads/main/icons/national_geographic.png"
     },
+    {
+      "name": "National Geographic White",
+      "url": "https://raw.githubusercontent.com/z285chen/vin-icons/refs/heads/main/icons/national_geographic_white.png"
+    },
   ]
 }
