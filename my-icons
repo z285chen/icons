@@ -1,0 +1,10 @@
+{
+  "name": "我的图标包",
+  "description": "图标库说明,可写更新日期、TG 频道等",
+  "icons": [
+    {
+      "name": "National Geographic",
+      "url": "https://www.picgo.net/image/1jAZAO"
+    },
+  ]
+}
